@@ -1,5 +1,6 @@
-![image](https://user-images.githubusercontent.com/76034766/136916011-4a39a0c0-ea69-46a0-9d01-f052fa049ad7.png)
-
+<div>
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  </div>
 <h1 align="center">Hi 👋, I'm Akshdeep Singh</h1>
 <h3 align="center">A passionate Developer and Programmer</h3>
 
