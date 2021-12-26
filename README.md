@@ -1,5 +1,5 @@
-<div>
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<div align="center">
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width:50%" />
   </div>
 <h1 align="center">Hi 👋, I'm Akshdeep Singh</h1>
 <h3 align="center">A passionate Developer and Programmer</h3>
@@ -10,11 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/aksh87019710" target="blank"><img src="https://img.shields.io/twitter/follow/aksh87019710?logo=twitter&style=for-the-badge" alt="aksh87019710" /></a> </p>
 
-- 🔭 I’m currently working on [Securing Online Transaction](https://github.com/Akshdeep792/Securing-Online-Transaction)
+- 🔭 I’m currently working on [Task Manager](https://github.com/Akshdeep792/ToDO-List.git)
 
 - 🌱 I’m currently learning **Backend Development**
-
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT.BOOTSTRAP,C++**
 
 - 📫 How to reach me **aksh175singh@gmail.com**
 
