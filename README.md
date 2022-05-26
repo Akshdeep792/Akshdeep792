@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshdeep792" alt="akshdeep792" /></a> </p>
 
-- 🔭 I’m currently working on [Jobify](https://github.com/Akshdeep792/Jobify.git)
+- 🔭 I’m currently working on [SafePay]([https://github.com/Akshdeep792/Jobify.git](https://github.com/Akshdeep792/SafePay))
 
 - 🌱 I’m currently learning **ReactJs**
 
